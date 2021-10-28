@@ -7,9 +7,13 @@
 
 #Gunakan Link Code Url Baru - https://bit.ly/3vuni5o
 
+
 #EXTM3U
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HD music television" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="one.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" tvg-url="" group-title="Malaysia",One_hd
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -765,4 +769,5 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA" tvg-url="" group-title="reserve",Reserve
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-Paste Hosted With  By Yam Code
+
+
