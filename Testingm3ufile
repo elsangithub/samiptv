@@ -9,18 +9,19 @@
 
 
 #EXTM3U
+1
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-url="" group-title="Malaysia",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
-
+2
 #EXTINF:-1 tvg-id="Tvs" tvg-name="Tvs" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" tvg-url="" group-title="Malaysia",Tvs
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
+3
 #EXTINF:-1 tvg-id="Tv Alhijrah" tvg-name="Tv Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" tvg-url="" group-title="Malaysia",Tv Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
+4
 #EXTINF:-1 tvg-id="Naura" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest/scale-to-width-down/300?cb=20190108161305" tvg-url="" group-title="Malaysia",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-
+5
 #EXTINF:-1 tvg-id="Tvikim" tvg-name="Tvikim" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png" tvg-url="" group-title="Malaysia",Tvikim
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
