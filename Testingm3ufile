@@ -9,6 +9,9 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Didik tv" tvg-name="Didik tv" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Malaysia",Didik tv
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Astro Oasis" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Malaysia",Astro Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
