@@ -9,6 +9,9 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Tvs" tvg-name="Tvs" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" tvg-url="" group-title="Malaysia",Tvs
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+
 #EXTINF:-1 tvg-id="Tv Alhijrah" tvg-name="Tv Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" tvg-url="" group-title="Malaysia",Tv Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
