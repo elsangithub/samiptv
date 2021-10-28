@@ -9,6 +9,9 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="4k test" tvg-name="4k test" tvg-country="MY" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/134/598/png-transparent-4k-resolution-ultra-high-definition-television-television-channel-television-show-gopro-television-emblem-electronics.png" tvg-url="" group-title="4k Channel",4k test
+https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon network" tvg-name="Cartoon network " tvg-country="MY" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/289/648/png-transparent-cartoon-network-too-cartoon-network-arabic-television-channel-1682-television-text-logo.png" tvg-url="" group-title="USA",Cartoon network
 https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMSAxOjU0OjQ3IFBNJmhhc2hfdmFsdWU9Znl5K3dtSkZqZWI4VmROTzNlRDV5QT09JnZhbGlkbWludXRlcz0yNDA=
 
