@@ -284,7 +284,7 @@ http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 92
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/3.m3u8
 93
 #EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="", Thrill
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
