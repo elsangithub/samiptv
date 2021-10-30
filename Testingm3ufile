@@ -11,7 +11,7 @@
 #EXTM3U
 1
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-url="" group-title="Malaysia",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/3.m3u8
 2
 #EXTINF:-1 tvg-id="Tvs" tvg-name="Tvs" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" tvg-url="" group-title="Malaysia",Tvs
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
