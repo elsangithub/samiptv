@@ -458,9 +458,6 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 148
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-language="fRench" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn french.jpg" group-title="",CGTN (French)
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-
-#EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn russian.jpg",CGTN Russian
-http://liveru.cgtn.com/1000r/prog_index.m3u8
 149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn spanish.jpg" group-title="news",CGTN Spain
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -801,5 +798,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
 261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="" tvg-logo="https://play-lh.googleusercontent.com/vNvPIGaqo717ROP4LvmrjowPA6nXjfLsP5XbnYpOecOdHxhBJ63TVK5o9Uolhu89iA" tvg-url="" group-title="reserve",Reserve
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.m3u8
-
-
+262
+#EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="http://www.masmiri.50webs.com/page2/cctv/cgtn russian.jpg",CGTN Russian
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+263
+#EXTINF:-1 tvg-id="Cinema word" tvg-name="Cinema word" tvg-country="MY" tvg-language="" tvg-logo="https://i.pinimg.com/originals/68/a9/65/68a96502104484dd8a9d9f30f2826e56.png" tvg-url="" group-title="Malaysia",Cinema word
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
