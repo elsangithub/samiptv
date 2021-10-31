@@ -220,7 +220,7 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="ohk.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png" tvg-url="" group-title="Malaysia",Oh!K hd
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 71
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Home&Garden",Home&Garden
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Malaysia",Home&Garden
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 72
 #EXTINF:0 tvg-name="Design Network" tvg-language="English" tvg-country="MY" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuD_S0_20ac07FrdsaaFrG3YxWChqneRSUw&usqp=CAU" group-title="", Design Network
@@ -804,3 +804,9 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 263
 #EXTINF:-1 tvg-id="Cinema word" tvg-name="Cinema word" tvg-country="MY" tvg-language="" tvg-logo="https://i.pinimg.com/originals/68/a9/65/68a96502104484dd8a9d9f30f2826e56.png" tvg-url="" group-title="Malaysia",Cinema word
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
+264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
+http:
+265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
+http
