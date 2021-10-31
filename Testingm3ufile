@@ -805,8 +805,19 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinema word" tvg-name="Cinema word" tvg-country="MY" tvg-language="" tvg-logo="https://i.pinimg.com/originals/68/a9/65/68a96502104484dd8a9d9f30f2826e56.png" tvg-url="" group-title="Malaysia",Cinema word
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 264
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
-http:
+#EXTINF:-1 tvg-id="MNC sports" tvg-name="MNC sports" tvg-country="" tvg-language="English" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" tvg-url="" group-title="International",MNC sports
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 265
+#EXTINF:-1 tvg-id="MNC sports 2" tvg-name="MNC sports 2" tvg-country="" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" tvg-url="" group-title="International",MNC sports 2
+https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
+266
+#EXTINF:-1 tvg-id="MNC sports 3" tvg-name="MNC sports 3" tvg-country="" tvg-language="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" tvg-url="" group-title="International",MNC soorts 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+267
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
 http
+
+
+
+
+
