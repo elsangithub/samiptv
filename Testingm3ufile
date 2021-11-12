@@ -475,7 +475,7 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 154
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport11.png" tvg-url="" group-title="Malaysia",Astro SuperSport
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115615
 155
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Malaysia",Astro SuperSport 2
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
