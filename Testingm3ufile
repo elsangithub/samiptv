@@ -1,13 +1,5 @@
 
-#Selamat Datang
-#More Than 200 ++ IPTV. last updated 4th Oct2021
-#Agar Bisa Lebih Update. . . .NOT FOR RESELL
-#Tayangan Ini Gratis (free)- Jangan Di Perjualbelikan
-#Gunakan Link code Url - https://bit.ly/3r9oglB
-
-#Gunakan Link Code Url Baru - https://bit.ly/3vuni5o
-
-
+#WELCOME GUYS
 #EXTM3U
 1
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-url="" group-title="Malaysia",Cinemax
@@ -478,13 +470,13 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115615
 155
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Malaysia",Astro SuperSport 2
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115616
 156
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Malaysia",Astro SuperSport 3
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115617
 157
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Malaysia",Astro SuperSport 4
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115618
 158
 #EXTINF:0 tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="France(248)",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
