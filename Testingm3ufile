@@ -33,7 +33,7 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 11
 #EXTINF:-1 tvg-id="Astro Oasis" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Malaysia",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+https://bit.ly/3xulw5g
 12
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -108,7 +108,7 @@ http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
 http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
 36
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="" tvg-logo="https://newcastlebeach.org/images/prima-logo-6.png" tvg-url="" group-title="Malaysia",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+https://bit.ly/3nYvLvu
 37
 #EXTINF:-1 tvg-country="IN" tvg-logo="https://hindi.gyaanghantaa.com/wp-content/uploads/sites/2/2018/08/it-logo.png" group-title="", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
@@ -464,7 +464,7 @@ https://www.youtube.com/channel/UCEx3_ZX9jTZHimMMrQ4aGsA|Referer=https://www.you
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 153
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" tvg-url="" group-title="Malaysia",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+https://bit.ly/3xxcHYz
 154
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport11.png" tvg-url="" group-title="Malaysia",Astro SuperSport
 https://bit.ly/3p8N10E
@@ -806,9 +806,13 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:-1 tvg-id="Disney channel" tvg-name="Dinsney channel" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_(2014).svg/1280px-Disney_Channel_logo_(2014).svg.png" tvg-url="" group-title="Malaysia",Disney channel
 http://live.buoitoi.club/live/hallmarkmm.m3u8
 267
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20200823172850" tvg-url="" group-title="Malaysia",ASTRO WARNA
+https://bit.ly/3D1BQvE
+268
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-country="my" tvg-language="" tvg-logo="https://www.pinclipart.com/picdir/middle/165-1652958_free-printable-superman-logo-10-buy-clip-art.png" tvg-url="" group-title="Malaysia",TVN
+https://bit.ly/3nYvJUo
+269
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
-
-
 
 
 
