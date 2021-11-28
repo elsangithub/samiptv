@@ -24,7 +24,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMSAxOjU0OjQ3IFBNJmhhc2hfdmFsdWU9Znl5K3dtSkZqZWI4VmROTzNlRDV5QT09JnZhbGlkbWludXRlcz0yNDA=
 8
 #EXTINF:-1 tvg-id="HBO HITS" tvg-name="Hbo hits" tvg-country="MY" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" tvg-url="" group-title="Malaysia",HBO HITS
-https://bit.ly/HBO_HITS_ASTRO
+https://bit.ly/317vZrl
 9
 #EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136" tvg-url="" group-title="Malaysia",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
@@ -81,7 +81,7 @@ http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
 27
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="Malaysia",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTNfSgTSxdoSqnuN9FYykfM)/dm/3/x6qp375/d/live-3.m3u8
 28
 #EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="",Channel 7
 https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
@@ -195,10 +195,10 @@ http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 65
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Malaysia",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
+https://bit.ly/3cTfIZE
 66
 #EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-country="MY" tvg-language="" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" tvg-url="" group-title="Malaysia",TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://bit.ly/3D07r0z
 67
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="Malaysia",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
