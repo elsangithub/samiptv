@@ -54,7 +54,7 @@ http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 18
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Malaysia",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+https://bit.ly/3p3JUah
 19
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
@@ -273,10 +273,10 @@ http://123.140.197.22/stream/1/play.m3u8
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 91
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Malaysia",HBO Malaysia
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://bit.ly/3E478Dw
 92
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Movie", HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Malaysia", HBO Family
+https://bit.ly/3li4GBN
 93
 #EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="", Thrill
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
@@ -467,7 +467,7 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 154
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport11.png" tvg-url="" group-title="Malaysia",Astro SuperSport
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115615
+https://bit.ly/3p8N10E
 155
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Malaysia",Astro SuperSport 2
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115616
