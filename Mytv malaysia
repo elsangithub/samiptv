@@ -57,7 +57,7 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 https://bit.ly/3p3JUah
 19
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXjouyqFcivkJd9relwgfTY)/dm/3/x6qud17/s/live-3.m3u8#cell=lsg1
 20
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" tvg-url="" group-title="Malaysia",Astro 小太阳 (Astro Xiao Tai Yang)
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
@@ -192,7 +192,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 64
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png" tvg-url="" group-title="Malaysia",NTV 7
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+https://stream-11.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pSli9xaATDYmVZ-EV9dtJQ)/dm/3/x7a7rxp/s/live-3.m3u8#cell=lcore
 65
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Malaysia",TV1
 https://bit.ly/3cTfIZE
@@ -201,7 +201,7 @@ https://bit.ly/3cTfIZE
 https://bit.ly/3D07r0z
 67
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="Malaysia",TV9
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+https://stream-03.ix7.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08s7NmrQCZcIfPjtyZY1ebes)/dm/3/x7a7rf7/s/live-3.m3u8#cell=lcore
 68
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV9
 https://cdn.hkdtmb.com/hls/99/index.m3u8
