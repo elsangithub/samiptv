@@ -273,7 +273,7 @@ http://123.140.197.22/stream/1/play.m3u8
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 91
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Malaysia",HBO Malaysia
-https://bit.ly/3E478Dw
+https://h4.ustvgo.la:443/Cinemax/myStream/chunks.m3u8?nimblesessionid=188166199&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgMTE6NTQ6MDIgQU0maGFzaF92YWx1ZT0zNDZiVmVSSkxuSVovUEFyV1RhVk1nPT0mdmFsaWRtaW51dGVzPTI0MA==
 92
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Malaysia", HBO Family
 https://bit.ly/3li4GBN
