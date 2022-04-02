@@ -812,7 +812,7 @@ https://bit.ly/3D1BQvE
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-country="my" tvg-language="" tvg-logo="https://www.pinclipart.com/picdir/middle/165-1652958_free-printable-superman-logo-10-buy-clip-art.png" tvg-url="" group-title="Malaysia",TVN
 https://bit.ly/3nYvJUo
 269
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-name="AWESOMETV" tvg-country="my" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" tvg-url="" group-title="malaysia",AWESOMETV
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=743
 
 
