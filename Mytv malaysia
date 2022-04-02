@@ -9,7 +9,7 @@ https://bit.ly/CINEMAX_ASTRO
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 3
 #EXTINF:-1 tvg-id="Tv Alhijrah" tvg-name="Tv Alhijrah" tvg-country="MY" tvg-language="" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png" tvg-url="" group-title="Malaysia",Tv Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+htthttps://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd
 4
 #EXTINF:-1 tvg-id="Naura" tvg-name="Naura" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Naura_Channel_125_Logo.png/revision/latest/scale-to-width-down/300?cb=20190108161305" tvg-url="" group-title="Malaysia",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
@@ -27,13 +27,13 @@ https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvM
 https://bit.ly/317vZrI
 9
 #EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136" tvg-url="" group-title="Malaysia",Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+http://iptv12k.com:35461/8022022301/468985/722
 10
 #EXTINF:-1 tvg-id="Didik tv" tvg-name="Didik tv" tvg-country="MY" tvg-language="" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202102/20210223/20210223181442797931.png" tvg-url="" group-title="Malaysia",Didik tv
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 11
 #EXTINF:-1 tvg-id="Astro Oasis" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Astro_Oasis_HD.png" tvg-url="" group-title="Malaysia",Astro Oasis
-https://bit.ly/3xulw5g
+http://iptv12k.com:35461/8022022301/468985/732
 12
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" tvg-url="" group-title="Malaysia",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -54,7 +54,7 @@ http://50.7.161.82:8278/streams/d/bollyone_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 18
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Malaysia",Astro Ceria
-https://bit.ly/3p3JUah
+http://iptv12k.com:35461/8022022301/468985/730
 19
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXjouyqFcivkJd9relwgfTY)/dm/3/x6qud17/s/live-3.m3u8#cell=lsg1
@@ -72,13 +72,13 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 24
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-url="" group-title="Malaysia",Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 25
 #EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia", Drama Sangat
 https://stream-02.ix7.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0g001QjyvlWZce6AN0XKBSI)/dm/3/x6zvnex/s/live-3.m3u8#cell=lcore
 26
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Malaysia",Astro Ria
-http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
+http://iptv12k.com:35461/8022011502/123456/735
 27
 #EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-country="MY" tvg-language="" tvg-logo="http://2.bp.blogspot.com/-uonTiMfQDnI/UcYeMxykOJI/AAAAAAAABq8/T2OmzshGDC4/s1600/tv3_logo.png" tvg-url="" group-title="Malaysia",TV3
 https://stream-09.ix7.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pWdAymT-73JU8OrD-3_vqg)/dm/3/x7a7rpm/s/live-3.m3u8#cell=lcore
@@ -189,7 +189,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 63
 #EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello" tvg-country="MY" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png" tvg-url="" group-title="Malaysia",Hello
-http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
+http://iptv12k.com:35461/8022022301/468985/719
 64
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png" tvg-url="" group-title="Malaysia",NTV 7
 https://stream-11.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pSli9xaATDYmVZ-EV9dtJQ)/dm/3/x7a7rxp/s/live-3.m3u8#cell=lcore
@@ -807,7 +807,7 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 http://live.buoitoi.club/live/hallmarkmm.m3u8
 267
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO WARNA" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest/scale-to-width-down/300?cb=20200823172850" tvg-url="" group-title="Malaysia",ASTRO WARNA
-https://bit.ly/3D1BQvE
+http://iptv12k.com:35461/8022022301/468985/733
 268
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-country="my" tvg-language="" tvg-logo="https://www.pinclipart.com/picdir/middle/165-1652958_free-printable-superman-logo-10-buy-clip-art.png" tvg-url="" group-title="Malaysia",TVN
 https://bit.ly/3nYvJUo
