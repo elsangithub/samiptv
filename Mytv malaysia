@@ -56,8 +56,8 @@ http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIj3xdCYCZWFF9PmI0_SEnaOhixxnUAN6CCrjTiiVQ-oCr2EA-mMqEOUf534IswTOQ&usqp=CAU" tvg-url="" group-title="Malaysia",Astro Ceria
 http://iptv12k.com:35461/8022022301/468985/730
 19
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXjouyqFcivkJd9relwgfTY)/dm/3/x6qud17/s/live-3.m3u8#cell=lsg1
+#EXTINF:-1 tvg-id="TV8.my" tvg-name="TV8" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",TV8
+https://1uao.short.gy/TV8
 20
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-name="Astro Xiao Tai Yang" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" tvg-url="" group-title="Malaysia",Astro 小太阳 (Astro Xiao Tai Yang)
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
@@ -74,8 +74,8 @@ http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" tvg-url="" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 25
-#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia", Drama Sangat
-https://stream-02.ix7.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0g001QjyvlWZce6AN0XKBSI)/dm/3/x6zvnex/s/live-3.m3u8#cell=lcore
+#EXTINF:-1 tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png" group-title="Malaysia",Drama Sangat
+https://1uao.short.gy/DRAMA SANGAT
 26
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" tvg-url="" group-title="Malaysia",Astro Ria
 http://iptv12k.com:35461/8022011502/123456/735
@@ -192,7 +192,7 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://iptv12k.com:35461/8022022301/468985/719
 64
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="" tvg-logo="https://www.vectorise.net/forums/downloads/ntv7_k0C.png" tvg-url="" group-title="Malaysia",NTV 7
-https://stream-11.dc3.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08pSli9xaATDYmVZ-EV9dtJQ)/dm/3/x7a7rxp/s/live-3.m3u8#cell=lcore
+https://1uao.short.gy/NTV7
 65
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language=""tvg-logo=" https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" tvg-url="" group-title="Malaysia",TV1
 https://1uao.short.gy/TV1
@@ -201,7 +201,7 @@ https://1uao.short.gy/TV1
 https://1uao.short.gy/TV2
 67
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" tvg-url="" group-title="Malaysia",TV9
-https://stream-03.ix7.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08s7NmrQCZcIfPjtyZY1ebes)/dm/3/x7a7rf7/s/live-3.m3u8#cell=lcore
+https://1uao.short.gy/TV9
 68
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV9
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -812,7 +812,7 @@ http://iptv12k.com:35461/8022022301/468985/733
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-country="my" tvg-language="" tvg-logo="https://www.pinclipart.com/picdir/middle/165-1652958_free-printable-superman-logo-10-buy-clip-art.png" tvg-url="" group-title="Malaysia",TVN
 https://bit.ly/3nYvJUo
 269
-#EXTINF:-1 tvg-id="" tvg-name="AWESOMETV" tvg-country="my" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" tvg-url="" group-title="malaysia",AWESOMETV
+#EXTINF:-1 tvg-id="" tvg-name="AWESOMETV" tvg-country="my" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" tvg-url="" group-title="Malaysia",AWESOMETV
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022022301&password=468985&stream=743
 
 
