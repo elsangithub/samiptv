@@ -24,7 +24,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://h3.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMSAxOjU0OjQ3IFBNJmhhc2hfdmFsdWU9Znl5K3dtSkZqZWI4VmROTzNlRDV5QT09JnZhbGlkbWludXRlcz0yNDA=
 8
 #EXTINF:-1 tvg-id="HBO HITS" tvg-name="Hbo hits" tvg-country="MY" tvg-language="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" tvg-url="" group-title="Malaysia",HBO HITS
-https://bit.ly/317vZrI
+https://1uao.short.gy/HBO HITS
 9
 #EXTINF:-1 tvg-id="Boo" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest?cb=20171225070136" tvg-url="" group-title="Malaysia",Boo
 http://iptv12k.com:35461/8022022301/468985/722
@@ -39,7 +39,7 @@ http://iptv12k.com:35461/8022022301/468985/732
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 13
 #EXTINF:-1 tvg-id="1HD music television" tvg-name="1HD music television" tvg-country="MY" tvg-language="" tvg-logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others.png" tvg-url="" group-title="Malaysia",1HD music television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+https://sc.id-tv.kz/1hd.m3u8
 14
 #EXTINF:-1 tvg-id="one.my" tvg-name="OneHD" tvg-country="MY" tvg-language="" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" tvg-url="" group-title="Malaysia",One_hd
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
@@ -273,10 +273,10 @@ http://123.140.197.22/stream/1/play.m3u8
 http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8
 91
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Malaysia",HBO Malaysia
-https://h4.ustvgo.la:443/Cinemax/myStream/chunks.m3u8?nimblesessionid=188166199&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjIgMTE6NTQ6MDIgQU0maGFzaF92YWx1ZT0zNDZiVmVSSkxuSVovUEFyV1RhVk1nPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://1uao.short.gy/HBO HD
 92
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="Malaysia", HBO Family
-https://bit.ly/3li4GBN
+https://1uao.short.gy/HBO FAMILY
 93
 #EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="", Thrill
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
@@ -467,16 +467,16 @@ http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 https://bit.ly/3xxcHYz
 154
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport11.png" tvg-url="" group-title="Malaysia",Astro SuperSport
-https://bit.ly/3p8N10E
+https://1uao.short.gy/ASTRO SUPERSPORTS 1
 155
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport12.png" tvg-url="" group-title="Malaysia",Astro SuperSport 2
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115616
+https://1uao.short.gy/ASTRO SUPERSPORTS 2
 156
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Malaysia",Astro SuperSport 3
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115617
+#EXTINF:-1 tvg-id="AstroSuperSport3.my"tvg-name="Astro SuperSport 3" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport13.png" tvg-url="" group-title="Malaysia",Astro SuperSport 3
+https://1uao.short.gy/ASTRO SUPERSPORTS 3
 157
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Malaysia",Astro SuperSport 4
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115618
+#EXTINF:-1 tvg-id="AstroSuperSport4.my"tvg-name="Astro SuperSport 4" tvg-country="MY" tvg-language="" tvg-logo="http://masmiri.50webs.com/Supersport14.png" tvg-url="" group-title="Malaysia",Astro SuperSport 4
+https://1uao.short.gy/ASTRO SUPERSPORTS 4
 158
 #EXTINF:0 tvg-country="FR" tvg-logo="https://pbs.twimg.com/profile_images/1020624523354345472/WZ1ZVRGa.jpg" group-title="France(248)",ONE GOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
